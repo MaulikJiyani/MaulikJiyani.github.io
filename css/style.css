@@ -1,0 +1,205 @@
+
+
+h1,h2, h3, h4, h5, h6 {
+	font-family:'Open Sans', Arial, sans-serif;
+	font-weight:700;
+	line-height:1.1em;
+	color:black;
+	margin-bottom: 20px;
+}
+p{
+	 font-size:25px;
+	 font-family:calibri;
+}
+#wrapper{
+	width:100%;
+	margin:0;	
+	padding:0;
+}
+
+}
+.row,.row-fluid {
+	margin-bottom:30px;
+}
+
+.row .row,.row-fluid .row-fluid{
+	margin-bottom:30px;
+}
+
+.row.nomargin,.row-fluid.nomargin {
+	margin-bottom:0;
+}
+
+.navbar-default {
+    border: none;
+}
+
+.navbar-brand {
+    color: #222;
+	text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1em;
+	letter-spacing: -1px;
+    margin-top: 30px;
+    padding: 0 0 0 15px;
+}
+
+
+header .navbar-collapse  ul.navbar-nav {
+    float: right;
+    margin-right: 0;
+}
+
+header .navbar-default{
+    background-color: #7FB3D5;
+}
+
+right{}
+
+header .navbar {
+    min-height: 120px;
+}
+
+section.callaction {
+	background:white;
+	padding:50px 0 0 0;
+}
+
+
+
+#content {
+	position:relative;
+	background:white;
+	padding:50px 0 40px 0;
+}
+
+
+.cta-text {
+	text-align: center;
+	margin-top:10px;
+}
+
+
+.box {
+	width: 100%;
+}
+.box-gray  {
+	background: #CCD1D1;
+	padding: 20px 20px 30px;
+}
+.box-gray  h4,.box-gray  i {
+	margin-bottom: 20px;
+}
+.box-bottom {
+	padding: 20px 0;
+	text-align: center;
+}
+.box-bottom a {
+	color: #fff;
+	font-weight: 700;
+}
+.box-bottom a:hover {
+	color: #eee;
+	text-decoration: none;
+}
+
+#inner-headline{
+	background:#252525;
+	position:relative;
+	margin:0;
+	padding:0;
+	color:#fefefe;
+}
+
+
+.blankline {
+	height:1px;
+	margin:0 0 30px;
+}
+
+.scrollup{
+    position:fixed;
+	width:32px;
+	height:32px;
+    bottom:0px;
+    right:20px;
+	background: #222;
+	
+}
+
+a.scrollup {
+	outline:0;
+	text-align: center;
+}
+
+a.scrollup:hover,a.scrollup:active,a.scrollup:focus {
+	opacity:1;
+	text-decoration:none;
+}
+a.scrollup i {
+	margin-top: 10px;
+	color: #fff;
+}
+a.scrollup i:hover {
+	text-decoration:none;
+}
+
+
+.absolute{
+	position:absolute;
+}
+
+.relative{
+	position:relative;
+}
+
+.aligncenter{
+	text-align:center;
+}
+
+.aligncenter span{
+	margin-left:0;
+}
+
+.floatright {
+	float:right;
+}
+
+.floatleft {
+	float:left;
+}
+
+.floatnone {
+	float:none;
+}
+
+.aligncenter {
+	text-align:center;
+}
+
+
+img.pull-left, .align-left{
+	float:left;
+	margin:0 15px 15px 0;
+}
+
+.widget img.pull-left {
+	float:left;
+	margin:0 15px 15px 0;
+}
+
+img.pull-right, .align-right {
+	float:right;
+	margin:0 0 15px 15px;
+}
+
+article img.pull-left, article .align-left{
+	float:left;
+	margin:5px 15px 15px 0;
+}
+
+article img.pull-right, article .align-right{
+	float:right;
+	margin:5px 0 15px 15px;
+}
